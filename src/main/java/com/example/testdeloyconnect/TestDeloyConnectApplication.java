@@ -1,13 +1,13 @@
-package com.ux.gs2n;
+package com.example.testdeloyconnect;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Gs2nApplication {
+public class TestDeloyConnectApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Gs2nApplication.class, args);
+		SpringApplication.run(TestDeloyConnectApplication.class, args);
 	}
 
 }
